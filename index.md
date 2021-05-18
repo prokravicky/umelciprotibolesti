@@ -178,13 +178,10 @@ a já jenom v duchu vím
 že číslem stav svůj nezměním”
 ```
  
-##
+##,,Jedna, dvě..."
 Autor: JBog
 ```markdown
-“Měla bych nějaký výtvor. 
-Nevím, jak moc jsem splnila zadání, ale doufám, že to je dostatečně špatné, ať to sedí xD
----
-První kráva do neznáma,
+“První kráva do neznáma,
 záblesk rychlý, plný bolu,
 stále trvá, nepřestává,
 bučí, bučí, utrum vzdoru. 
