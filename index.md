@@ -9,6 +9,7 @@ Bojujeme slovem, to je silnější než meč. Nebo cejch. Nebo známkovací kle�
 Bojujeme almanachem básní nevalné kvality.
 
 Jménem všech přispivatelů vám přeji snesitelné počtení.
+
 Martina Kozlová
 
 ## Kráva, krávě, kravata
@@ -159,7 +160,7 @@ Za strojové chování”
 ```
 
 ## Dopis Stížnosti
-###Předmět: přestantě pls
+### Předmět: přestantě pls
 Autor: Vittorio Emanuelle von Opava
 ```markdown
 “Proč bychom něco dělali bezbolestně když to jde bolestně? Ano, protože lidé bohužel takoví jsou. Místo aby jim dali nějaký přívěsek s údaji tak jim raději vypálí díru do těla. Byl bych moc rád aby lidé, kteří s tím souhlasí odložili občanky a někde na čelo si vypálili jméno, příjmení a datum narození. Díky”
