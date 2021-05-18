@@ -1,7 +1,7 @@
 ---
 ---
 
-@import "{{ jekyll-theme-merlot }}"; 
+@import "{{ site.theme }}"; 
 body {
     font-family: Arial;
 }
