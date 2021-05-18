@@ -123,7 +123,7 @@ Autor: Kravička
 ```
 
 ## Vogonská polemika o revanši krav
-Autor: Martina Teležena Kozlová
+Autor: Martina “Teležena” Kozlová
 ```markdown
 “Ach, vy rochtopechtle cejchovačskí...
 Jednů bodybudnem’ vašů šlušňovašskí 
@@ -159,7 +159,7 @@ Za strojové chování”
 ```
 
 ## Dopis Stížnosti
-Předmět: přestantě pls
+###Předmět: přestantě pls
 Autor: Vittorio Emanuelle von Opava
 ```markdown
 “Proč bychom něco dělali bezbolestně když to jde bolestně? Ano, protože lidé bohužel takoví jsou. Místo aby jim dali nějaký přívěsek s údaji tak jim raději vypálí díru do těla. Byl bych moc rád aby lidé, kteří s tím souhlasí odložili občanky a někde na čelo si vypálili jméno, příjmení a datum narození. Díky”
@@ -189,5 +189,5 @@ bučí, bučí, utrum vzdoru.
 Druhá kráva hned je zvána,
 družku zře a omdlévá,
 ve tmě zažhne, trýzní štvána,
-ha, ha, dva, jsi kráva má."
+ha, ha, dva, jsi kráva má.”
 ```
