@@ -1,6 +1,6 @@
 # Umělci proti bolesti
 
-Žijeme v době, která je plná bolesti a utrpení. To však není nutné! Kdybychom chtěli, mohli bychom odstranit většinu bolesti, která sužuje nejen lidi, ale i zvířata. Přesto jsou ale zvířata cejchována, jejich uši probodávány nebo trhány. Pomineme-li bolest, jež vzniká při tomto procesu, zvyšuje např. probodávání uší riziko infekce. Máme však lepší možnosti při chovu dobytka — čipování, dočasné tetování či systémy facial recognition. Tyto nástroje však nejsou využívány, protože jsou finančně náročnější.
+Žijeme v době, která je plná bolesti a utrpení. To však není nutné! Kdybychom chtěli, mohli bychom odstranit většinu bolesti, která sužuje nejen lidi, ale i zvířata. Přesto jsou ale zvířata cejchována, jejich uši probodávány nebo trhány. Pomineme-li bolest, jež vzniká při tomto procesu, zvyšuje např. probodávání uší riziko infekce. Máme lepší možnosti při chovu dobytka — čipování, dočasné tetování či systémy facial recognition. Tyto nástroje však nejsou využívány, protože jsou finančně náročnější.
 
 Jak se můžeme nazvat dobrými lidmi, když způsobujeme i v přítomnosti alternativ utrpení, abychom ušetřili pár drobných? Jak můžeme s klidným svědomím spát, když klademe své pohodlí nad blaho ostatních tvorů?
 
