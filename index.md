@@ -69,10 +69,12 @@ klesni na kolena.
 
 V příštím životě vystuduju práva,
 prozatím jsem ale kráva.
-Jsem to ale kráva."```
+Jsem to ale kráva."
+```
 
 ## No Difference
 Autor: The_Voided
+```markdown
 “You marked me, my thigh with a white hot steel
 To remind me of a crime of being me.
 That I am different than you are.
@@ -87,16 +89,20 @@ In the end, you’ll take us to the slaughterhouse.
 Or play-torture us till death just because
 Both of us will end with a pistol to our head
 Humans care about animals if they’re pretty or dead.”
+```
 
 ## Železo/Želízka
 Autor: Kukuřičný Škrob
+```markdown
 “Kráva.
 Cejch.
 Au.
 Ne.”
+```
 
 ## Ne
 Autor: Ne(luška)
+```markdown
 “Seděla ovce
 na lebce
 a utapěla se v depce
@@ -106,15 +112,19 @@ označili
 že ji ohyzdně
 jeji hyždě
 spalili”
+```
 
 ## Bez názvu.txt
 Autor: Eugene
+```markdown
 "cejchovat zvířátka není vůbec milé.
 vlastně je to dost zlé,
 vole.”
+```
 
 ## Farmička
 Autor: ?? and the Muse 
+```markdown
 “U ohrádky tele stojí,
 přežvikuje kytičku.
 Za stodolou auta staví,
@@ -139,13 +149,17 @@ Farmář povzdychl svědomitě
 a milému zvířátku,
 nic nezbylo v životě
 než nasadit si oprátku.”
+```
 
 ## Auva, moje uško
 Autor: Kravička
+```markdown
 “Óój, jujdanándá. To je chrusá ojky jujky, já jsem kravička, tak se jmenuju, kravička ajááj, a já moje ucho, uško. Označování kraviček to je věc skvělá, ale nesmím to být já, chichi, jó, dám si večeři a pak sním ty mrňavé škvorky, co mě chtějí očipovat, já se nedám, jó hó. Nechci být očipovaná marťany ani žádnými jinými těmi, no, škvorkami. Bú, bú, to nebučím ale brečím, bú škyt, chi, chi.”
+```
 
 ## Vogonská polemika o revanši krav
 Autor: Martina Teležena Kozlová
+```markdown
 “Ach, vy rochtopechtle cejchovačskí...
 Jednů bodybudnem’ vašů šlušňovašskí 
 uchohnilů
@@ -153,9 +167,11 @@ A vochtochropně zchechtáme rypáky
 Na vaše plsňovité žaláky
 Cváky-cáky
 Ucho dolů.”
+```
 
 ## Kravín panelák
 Autor: VeŠ
+```markdown
 “Kravička toť roztomilé zvířátko
 Na jatka pudeš za krátko
 Panno Maria na nebesích
@@ -175,14 +191,18 @@ Hoří kůže, srst se škvaří
 Jako býk se tele tváří
 Býček známkou se odmění
 Za strojové chování”
+```
 
 ## Dopis Stížnosti
 Předmět: přestantě pls
 Autor: Vittorio Emanuelle von Opava
+```markdown
 “Proč bychom něco dělali bezbolestně když to jde bolestně? Ano, protože lidé bohužel takoví jsou. Místo aby jim dali nějaký přívěsek s údaji tak jim raději vypálí díru do těla. Byl bych moc rád aby lidé, kteří s tím souhlasí odložili občanky a někde na čelo si vypálili jméno, příjmení a datum narození. Díky”
+```
 
 ## Lhostejnost:
 Autor: Hořčíková lampa ironie
+```markdown
 “není nic tak zlé a k klení
 jako číslem známkování
 sice nejsem žádná kráva
@@ -191,3 +211,4 @@ ale i tak je otravné
 když na bakaláře známka přistane
 a já jenom v duchu vím
 že číslem stav svůj nezměním”
+```
