@@ -1,7 +1,8 @@
 ---
 ---
 
-@import "{{ merlot }}";
+@import "merlot/skins/{{ site.merlot.skin | default: 'classic' }}";
+@import "merlot/initialize";
 
 .inner {
   max-width: 75%;
