@@ -48,7 +48,7 @@ Martina Kozlová
 
 ## Kráva, krávě, kravata
 Autor: Zita Motýlovna
-
+```markdown
 "Jsem kráva.
 Nemůžu si vybrat barvu mojí náušnice.
 
@@ -69,7 +69,7 @@ klesni na kolena.
 
 V příštím životě vystuduju práva,
 prozatím jsem ale kráva.
-Jsem to ale kráva."
+Jsem to ale kráva."```
 
 ## No Difference
 Autor: The_Voided
