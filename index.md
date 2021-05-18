@@ -1,38 +1,3 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/prokravicky/umelciprotibolesti.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings]
-(https://github.com/prokravicky/umelciprotibolesti.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
 # Umělci proti bolesti
 
 Žijeme v době, která je plná bolesti a utrpení. To však není nutné! Kdybychom chtěli, mohli bychom odstranit většinu bolesti, která sužuje nejen lidi, ale i zvířata. Přesto jsou ale zvířata cejchována, jejich uši probodávány nebo trhány. Pomineme-li bolest, jež vzniká při tomto procesu, zvyšuje např. probodávání uší riziko infekce. Máme však lepší možnosti při chovu dobytka — čipování, dočasné tetování či systémy facial recognition. Tyto nástroje však nejsou využívány, protože jsou finančně náročnější.
