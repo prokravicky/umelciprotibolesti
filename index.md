@@ -178,7 +178,7 @@ a já jenom v duchu vím
 že číslem stav svůj nezměním”
 ```
  
-##,,Jedna, dvě..."
+## ,,Jedna, dvě..."
 Autor: JBog
 ```markdown
 “První kráva do neznáma,
