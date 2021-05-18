@@ -177,3 +177,4 @@ když na bakaláře známka přistane
 a já jenom v duchu vím
 že číslem stav svůj nezměním”
 ```
+ 
