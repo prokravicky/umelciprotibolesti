@@ -166,7 +166,7 @@ Autor: Vittorio Emanuelle von Opava
 “Proč bychom něco dělali bezbolestně když to jde bolestně? Ano, protože lidé bohužel takoví jsou. Místo aby jim dali nějaký přívěsek s údaji tak jim raději vypálí díru do těla. Byl bych moc rád aby lidé, kteří s tím souhlasí odložili občanky a někde na čelo si vypálili jméno, příjmení a datum narození. Díky”
 ```
 
-## Lhostejnost:
+## Lhostejnost
 Autor: Hořčíková lampa ironie
 ```markdown
 “není nic tak zlé a k klení
@@ -192,4 +192,14 @@ družku zře a omdlévá,
 ve tmě zažhne, trýzní štvána,
 ha, ha, dva, jsi kráva má.”
 ```
-a
+
+## Kraví zdraví
+Autor: Hodinový manžel
+```markdown
+Čím míň známek pro krávy
+Tím víc známek pro manželky
+A mě vždycky otráví
+Když mívají nedodělky
+S touto známkou, dobře vím,
+Že manželku potěším
+```
